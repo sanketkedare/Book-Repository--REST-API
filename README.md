@@ -1,2 +1,1 @@
-# Book-Repository--REST-API
-Spring Boot Project : REST API
+A web application developed using Java – J2EE, Spring Boot, MySQL, JSON, and Postman tool. It is used to perform CRUD (Create, Read, Update, and Delete) operations with the database using Postman tool in JSON format data. The REST API of Spring Boot is used to create a secure and reliable connection between the Book Repository and the ONLINE Book Store.
